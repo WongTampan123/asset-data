@@ -1,0 +1,2603 @@
+{
+  "assetData": [
+    {
+      "id": 1,
+      "name": "Rusni Somalinggi",
+      "noKTP": "9103015202730003",
+      "noHP": "081248055457",
+      "siteName": "BTN Puskopad Sentani",
+      "projectID": "23TS01Z2503",
+      "siteID": "JAP191",
+      "city": "Jayapura",
+      "startRent": [
+        11,
+        4,
+        2014
+      ],
+      "endRent": [
+        10,
+        4,
+        2024
+      ],
+      "siteArea": [
+        4,
+        12
+      ],
+      "jalanMasuk": "4m x 2m = 8m²",
+      "price": 125000000,
+      "longLat": [
+        140.52519,
+        -2.57456
+      ],
+      "address": "Jalan Dundlop Blok G No.1, RT 001, RW 001, Kel. Sentani Kota, Kec. Sentani, Kota Jayapura, Provinsi Papua",
+      "ownerAddress": "Jalan Dundlop Blok G No.1, RT 001, RW 001, Kel. Sentani Kota, Kec. Sentani, Kota Jayapura, Provinsi Papua",
+      "suratTerlampir": "Sertifikat Hak Milik",
+      "noSuratTerlampir": "Nomor 310 ",
+      "noGirik": "",
+      "noSPPT": "No.82.03.190.010.013-0587.0",
+      "noIMB": "No. 42/SIB/IV/73/2000",
+      "noAktaJB": "",
+      "alamatBayar": [
+        "Mandiri",
+        "154-00-1709427-1",
+        "Rusni Somalinggi"
+      ],
+      "negotiator": "",
+      "negoHistori": []
+    },
+    {
+      "id": 2,
+      "name": "Suriani",
+      "noKTP": "9171056402700002",
+      "noHP": "081247377254",
+      "siteName": "Perumnas 4",
+      "projectID": "23TS01Z1896",
+      "siteID": "JAP156",
+      "city": "Jayapura",
+      "startRent": [
+        11,
+        12,
+        2018
+      ],
+      "endRent": [
+        10,
+        12,
+        2023
+      ],
+      "siteArea": [
+        2.5,
+        4
+      ],
+      "jalanMasuk": "Akses Jalan melalui garasi dan tangga naik ke teras lantai 3",
+      "price": 75000000,
+      "longLat": [
+        140.65013,
+        -2.59882
+      ],
+      "address": "Perumnas IV Block C No.4, RT.003/RW.007, Kel. Hedam, Kec. Heram, Kota Jayapura, Prov Papua",
+      "ownerAddress": "Perumnas IV Block C No.4, RT.003/RW.007, Kel. Hedam, Kec. Heram, Kota Jayapura, Prov Papua",
+      "suratTerlampir": "Sertipikat Hak Milik",
+      "noSuratTerlampir": "Nomor 821",
+      "noGirik": "",
+      "noSPPT": "No.82.71.005.001.025-0321.0",
+      "noIMB": "No. 640/96/94",
+      "noAktaJB": "",
+      "alamatBayar": [
+        "Mandiri",
+        "154-00-1160114-7",
+        "Suriani"
+      ],
+      "negotiator": "",
+      "negoHistori": []
+    },
+    {
+      "id": 3,
+      "name": "Sri Rusdinah",
+      "noKTP": "917034809450001",
+      "noHP": "082197579373",
+      "siteName": "DMT Yobe",
+      "projectID": "13TS03B7200",
+      "siteID": "JAP136",
+      "city": "Jayapura",
+      "startRent": [
+        13,
+        4,
+        2013
+      ],
+      "endRent": [
+        12,
+        4,
+        2024
+      ],
+      "siteArea": [
+        5,
+        8
+      ],
+      "jalanMasuk": "1m x 16m = 16m²",
+      "price": 150000000,
+      "longLat": [
+        140.667128,
+        -2.61359
+      ],
+      "address": "Jl. Timika No.4, RT/RW. 001/005, Kelurahan Yobe, Kec.  Abepura, Kab.  Jayapura, Provinsi Papua.",
+      "ownerAddress": "Jl. Timika No.4, RT/RW. 001/005, Kelurahan Yobe, Kec.  Abepura, Kab.  Jayapura, Provinsi Papua",
+      "suratTerlampir": "Sertipikat Hak Milik",
+      "noSuratTerlampir": "Nomor 36 Atas Nama Sri Rusdinah, BA",
+      "noGirik": "",
+      "noSPPT": "No.82.71.003.012.001-0069.0",
+      "noIMB": "",
+      "noAktaJB": "",
+      "alamatBayar": [
+        "Mandiri",
+        "154-00-1406850-0",
+        "Sri Rusdinah B.A."
+      ],
+      "negotiator": "",
+      "negoHistori": []
+    },
+    {
+      "id": 4,
+      "name": "Fatimah Nur",
+      "noKTP": "9171035505650002",
+      "noHP": "082154010114",
+      "siteName": "Asano Tanah Hitam",
+      "projectID": "23TS01Z1882",
+      "siteID": "JAP196",
+      "city": "Jayapura",
+      "startRent": [
+        28,
+        4,
+        2014
+      ],
+      "endRent": [
+        27,
+        4,
+        2024
+      ],
+      "siteArea": [
+        6,
+        4
+      ],
+      "jalanMasuk": "1m x 10m = 10m²",
+      "price": 90000000,
+      "longLat": [
+        140.68712,
+        -2.61991
+      ],
+      "address": "Jalan Nenas Tanah Hitam, RT.003/RW.002, Kel. Asano, Kec. Abepura, Kota Jayapura, Provinsi Papua",
+      "ownerAddress": "Jalan Nenas Tanah Hitam, RT.003/RW.002, Kel. Asano, Kec. Abepura, Kota Jayapura, Provinsi Papua",
+      "suratTerlampir": "Sertifikat Hak Milik",
+      "noSuratTerlampir": "Nomor 01890",
+      "noGirik": "",
+      "noSPPT": "82.71.003.002.016.0098.0",
+      "noIMB": "470/518/XII/2014",
+      "noAktaJB": "",
+      "alamatBayar": [
+        "BRI",
+        "4918-01-024207-53-8",
+        "Fatimah Nur"
+      ],
+      "negotiator": "Muhammad Azhar W.",
+      "negoHistori": [
+        {
+          "tglPenyimpanan": [
+            12,
+            7,
+            2023
+          ],
+          "ll": {
+            "harga": "150000000",
+            "periode": "10",
+            "growth": "66.67"
+          },
+          "dmt": {
+            "harga": "110000000",
+            "periode": "10",
+            "growth": "22.22"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ricky Wijaya",
+      "noKTP": "9203012607660001",
+      "noHP": "08124866186",
+      "siteName": "Swalayan Senyum Fak Fak",
+      "projectID": "23TS01Z3147",
+      "siteID": "FFK020",
+      "city": "Fakfak",
+      "startRent": [
+        "17",
+        "6",
+        "2019"
+      ],
+      "endRent": [
+        "16",
+        "6",
+        "2024"
+      ],
+      "siteArea": [
+        "7",
+        "3"
+      ],
+      "jalanMasuk": "2m x 1m",
+      "price": "125000000",
+      "longLat": [
+        "132.29022",
+        "-2.92949"
+      ],
+      "address": "Jl. Yos Sudarso, Kelurahan Wagom, Kecamatan Fak Fak, Kabupaten Fak Fak, Provinsi Papua Barat",
+      "ownerAddress": "Jalan Izak Tulessa, RT. 016/RW. 000, Kelurahan Fakfak Selatan, Kecamatan Fakfak, Kabupaten Fakfak, Provinsi Papua Barat",
+      "id": 5,
+      "suratTerlampir": "Sertifikat Hak Milik",
+      "noSuratTerlampir": "Nomor 01768 Atas Nama Ricky Wijaya",
+      "noGirik": "",
+      "noSPPT": "",
+      "noIMB": "",
+      "noAktaJB": "",
+      "alamatBayar": [
+        "Mandiri",
+        "160-00-0019963-4",
+        "Ricky Wijaya"
+      ],
+      "negotiator": "Muhammad Azhar W.",
+      "negoHistori": [
+        {
+          "tglPenyimpanan": [
+            10,
+            7,
+            2023
+          ],
+          "ll": {
+            "harga": "150000000",
+            "periode": "5",
+            "growth": "20.00"
+          },
+          "dmt": {
+            "harga": "150000000",
+            "periode": "5",
+            "growth": "20.00"
+          }
+        },
+        {
+          "tglPenyimpanan": [
+            14,
+            7,
+            2023
+          ],
+          "ll": {
+            "harga": "150000000",
+            "periode": "5",
+            "growth": "20.00"
+          },
+          "dmt": {
+            "harga": "132500000",
+            "periode": "5",
+            "growth": "6.00"
+          }
+        }
+      ],
+      "BAKSaved": [
+        10,
+        "Juni",
+        2023
+      ]
+    },
+    {
+      "name": "DKM Masjid Nuru Amin",
+      "noKTP": "9171011806590001 (Drs. Alwi Tianelan)",
+      "noHP": "085243603399",
+      "siteName": "Yapis",
+      "projectID": "23TS01Z1898",
+      "siteID": "JAP200",
+      "city": "Jayapura",
+      "startRent": [
+        "15",
+        "4",
+        "2014"
+      ],
+      "endRent": [
+        "14",
+        "4",
+        "2024"
+      ],
+      "siteArea": [
+        "2.5",
+        "12"
+      ],
+      "jalanMasuk": "1m x 10m",
+      "price": "100000000",
+      "longLat": [
+        "140.71603",
+        "-2.52975"
+      ],
+      "address": "Jl. Dr. Samratulangi Dok V, RT.005/RW.002, Kelurahan Mandala, Distrik Jayapura Utara, Provinsi Papua",
+      "ownerAddress": "Jl. Dr. Samratulangi Dok V, RT.005/RW.002, Kelurahan Mandala, Distrik Jayapura Utara, Provinsi Papua",
+      "id": 6,
+      "suratTerlampir": "",
+      "noSuratTerlampir": "",
+      "noGirik": "",
+      "noSPPT": "",
+      "noIMB": "",
+      "noAktaJB": "",
+      "alamatBayar": [],
+      "negotiator": "Muhammad Azhar W.",
+      "negoHistori": [
+        {
+          "tglPenyimpanan": [
+            13,
+            7,
+            2023
+          ],
+          "ll": {
+            "harga": "65000000",
+            "periode": "5",
+            "growth": "30.00"
+          },
+          "dmt": {
+            "harga": "65000000",
+            "periode": "5",
+            "growth": "30.00"
+          }
+        }
+      ]
+    },
+    {
+      "name": "PT. Multi Agung Lestari",
+      "noKTP": " 9103012507930001 (Vincent Chandra)",
+      "noHP": "082198389205",
+      "siteName": "Roof Top SCS",
+      "projectID": "23TS01Z3021",
+      "siteID": "JAP155",
+      "city": "Jayapura",
+      "startRent": [
+        "11",
+        "12",
+        "2018"
+      ],
+      "endRent": [
+        "10",
+        "12",
+        "2023"
+      ],
+      "siteArea": [
+        "18.5",
+        "6"
+      ],
+      "jalanMasuk": "Akses jalan melalui tangga darurat naik ke atap mall lantai 3",
+      "price": "150000000",
+      "longLat": [
+        "140.50051",
+        "-2.56306"
+      ],
+      "address": "Jl. Kemiri no.281, Sentani, Kabupaten Jayapura, Provinsi Papua",
+      "ownerAddress": "Jl. Kemiri no.281, Sentani, Kabupaten Jayapura, Provinsi Papua",
+      "id": 7,
+      "suratTerlampir": "",
+      "noSuratTerlampir": "",
+      "noGirik": "",
+      "noSPPT": "",
+      "noIMB": "",
+      "noAktaJB": "",
+      "alamatBayar": [],
+      "negotiator": "",
+      "negoHistori": []
+    },
+    {
+      "name": "Suarno Majid",
+      "noKTP": "9104011712530001",
+      "noHP": "08124892923 (CP. Rahmad Maryono)",
+      "siteName": "Tsel BO Ruko Yos Sudarso",
+      "projectID": "23TS01Z0151",
+      "siteID": "NAB028",
+      "city": "Nabire",
+      "startRent": [
+        "19",
+        "12",
+        "2018"
+      ],
+      "endRent": [
+        "18",
+        "12",
+        "2023"
+      ],
+      "siteArea": [
+        "15",
+        "8"
+      ],
+      "jalanMasuk": "",
+      "price": "150000000",
+      "longLat": [
+        "135.5001",
+        "-3.35931"
+      ],
+      "address": "Jalan Yos Sudarso, Kelurahan Oheye, Kecamatan Nabire, Kabputaten Nabire, Provinsi Papua",
+      "ownerAddress": "Jalan Frans Kaisiepo, RT.002, Kelurahan Nabarua, Kecamatan Nabire, Kabupaten Nabire, Provinsi Papua",
+      "id": 8,
+      "suratTerlampir": "Sertipikat Hak Milik",
+      "noSuratTerlampir": "Nomor 00843 Atas Nama Suarno Majid",
+      "noGirik": "",
+      "noSPPT": "82.04.040.013.002-0006.0",
+      "noIMB": "644/561/IMB/2005",
+      "noAktaJB": "",
+      "alamatBayar": [
+        "BRI",
+        "0687-01-028946-50-3",
+        "Suwarno Majid"
+      ],
+      "negotiator": "",
+      "negoHistori": []
+    },
+    {
+      "name": "Joseph Malsedalam",
+      "noKTP": "8171020911610003",
+      "noHP": "081343043750",
+      "siteName": "Teluk Ambon",
+      "siteID": "AMB168",
+      "projectID": "23TS01Z2568",
+      "city": "Ambon",
+      "startRent": [
+        "1",
+        "5",
+        "2019"
+      ],
+      "endRent": [
+        "30",
+        "4",
+        "2024"
+      ],
+      "siteArea": [
+        "7",
+        "3.3"
+      ],
+      "jalanMasuk": "6.7m x 1m",
+      "price": "125000000",
+      "longLat": [
+        "128.25557",
+        "-3.63578"
+      ],
+      "address": "Jalan Karel Sasuit Tubun, RT.006/RW.002, Kelurahan Passo, Kecamatan Teluk Ambon, Kota Ambon, Provinsi Maluku",
+      "ownerAddress": "Skip Dalam, RT.002/RW.002,Kelurahan Batu Meja,Kecamatan Sirimau,Kota Ambon,Provinsi Maluku",
+      "id": 10,
+      "suratTerlampir": "Sertipikat Hak Milik",
+      "noSuratTerlampir": "Nomor 4273 Atas Nama Joseph Malsedalam",
+      "noGirik": "",
+      "noSPPT": "81.71.030.004.001-0448.0",
+      "noIMB": "648.12/122",
+      "noAktaJB": "",
+      "alamatBayar": [
+        "BNI",
+        "0193021417",
+        "Joseph Malsedalam"
+      ],
+      "negotiator": "Ganang Arifian",
+      "negoHistori": [
+        {
+          "tglPenyimpanan": [
+            7,
+            7,
+            2023
+          ],
+          "ll": {
+            "harga": "175000000",
+            "periode": "5",
+            "growth": "40.00"
+          },
+          "dmt": {
+            "harga": "325000000",
+            "periode": "10",
+            "growth": "30.00"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sudirman Haruna",
+      "noKTP": "9203010708520004",
+      "noHP": "081248251909",
+      "siteName": "Ruko H. Lelo",
+      "siteID": "FFK022",
+      "projectID": "23TS01Z3146",
+      "city": "Fakfak",
+      "startRent": [
+        "16",
+        "6",
+        "2019"
+      ],
+      "endRent": [
+        "15",
+        "6",
+        "2024"
+      ],
+      "siteArea": [
+        6,
+        4
+      ],
+      "jalanMasuk": "2m x 1m",
+      "price": "125000000",
+      "longLat": [
+        "132.27259",
+        "-2.92827"
+      ],
+      "address": "Jl. Yos Sudarso,RT.001/RW.003,Kelurahan Dulanpokpok, Kecamatan Fakfak, Kabupaten Fakfak, Provinsi Papua Barat",
+      "ownerAddress": "Jl. Yos Sudarso,RT.001/RW.003,Kelurahan Dulanpokpok, Kecamatan Fakfak, Kabupaten Fakfak, Provinsi Papua Barat",
+      "id": 11,
+      "suratTerlampir": "Sertipikat Hak Milik",
+      "noSuratTerlampir": "Nomor 634 Atas Nama Haji Sudirman Haruna",
+      "noGirik": "",
+      "noSPPT": "No.82.05.110.005.003-0087.0",
+      "noIMB": "No. 54/SIMB/FF/2004",
+      "noAktaJB": "",
+      "alamatBayar": [
+        "Papua",
+        "6000202069561",
+        "HJ SUDIRMAN HARUNA"
+      ],
+      "negotiator": "Muhammad Azhar W.",
+      "negoHistori": [
+        {
+          "tglPenyimpanan": [
+            10,
+            7,
+            2023
+          ],
+          "ll": {
+            "harga": "200000000",
+            "periode": "10",
+            "growth": "-20.00"
+          },
+          "dmt": {
+            "harga": "200000000",
+            "periode": "10",
+            "growth": "-20.00"
+          }
+        }
+      ]
+    },
+    {
+      "name": "",
+      "noKTP": "",
+      "noHP": "",
+      "siteName": "Ruko Angkasa Motor",
+      "siteID": "SON123",
+      "projectID": "23TS01Z0610",
+      "city": "Sorong",
+      "startRent": [
+        "15",
+        "6",
+        "2019"
+      ],
+      "endRent": [
+        "14",
+        "6",
+        "2024"
+      ],
+      "siteArea": [
+        0,
+        0
+      ],
+      "jalanMasuk": "",
+      "price": "125000000",
+      "longLat": [
+        "131.33046",
+        "-0.89807"
+      ],
+      "address": "",
+      "ownerAddress": "",
+      "id": 12,
+      "suratTerlampir": "",
+      "noSuratTerlampir": "",
+      "noGirik": "",
+      "noSPPT": "",
+      "noIMB": "",
+      "noAktaJB": "",
+      "alamatBayar": [],
+      "negotiator": "",
+      "negoHistori": []
+    },
+    {
+      "name": "Sigit Raharjo",
+      "noKTP": "9102012712750001",
+      "noHP": "081248595855",
+      "siteName": "Pasar Sinakma",
+      "siteID": "WAM028",
+      "projectID": "23TS01Z2981",
+      "city": "Wamena",
+      "startRent": [
+        "1",
+        "10",
+        "2019"
+      ],
+      "endRent": [
+        "30",
+        "9",
+        "2024"
+      ],
+      "siteArea": [
+        "5",
+        "5"
+      ],
+      "jalanMasuk": "Menyesuaikan Jalan",
+      "price": "125000000",
+      "longLat": [
+        "138.93366",
+        "-4.10322"
+      ],
+      "address": "Jl. Yos Sudarso, RT.006/RW.006, Kelurahan Wamena Kota, Kecamatan Wamena, Kabupaten Jayawijaya, Provinsi Papua",
+      "ownerAddress": "Jl. Yos Sudarso, RT.006/RW.006, Kelurahan Wamena Kota, Kecamatan Wamena, Kabupaten Jayawijaya, Provinsi Papua",
+      "id": 13,
+      "suratTerlampir": "Sertifikat Hak Guna Bangunan",
+      "noSuratTerlampir": "No. B. 2.591 Atas Nama Menik Sumirah",
+      "noGirik": "",
+      "noSPPT": "No. 82.02.080.005.016-0157.0",
+      "noIMB": "Nomor 503/172/IMB/JWJ/2010",
+      "noAktaJB": "",
+      "alamatBayar": [
+        "BRI",
+        "5059-01-017976-53-3",
+        "Menik Sumirah"
+      ],
+      "negotiator": "",
+      "negoHistori": []
+    },
+    {
+      "name": "",
+      "noKTP": "",
+      "noHP": "",
+      "siteName": "Pasar Kalibobo",
+      "siteID": "NAB027",
+      "projectID": "23TS01Z0350",
+      "city": "Nabire",
+      "startRent": [
+        "18",
+        "12",
+        "2018"
+      ],
+      "endRent": [
+        "17",
+        "12",
+        "2023"
+      ],
+      "siteArea": [
+        0,
+        0
+      ],
+      "jalanMasuk": "",
+      "price": "75000000",
+      "longLat": [
+        "135.488719",
+        "-3.366439"
+      ],
+      "address": "",
+      "ownerAddress": "",
+      "id": 14,
+      "suratTerlampir": "",
+      "noSuratTerlampir": "",
+      "noGirik": "",
+      "noSPPT": "",
+      "noIMB": "",
+      "noAktaJB": "",
+      "alamatBayar": [],
+      "negotiator": "",
+      "negoHistori": []
+    },
+    {
+      "name": "Edison Wayega",
+      "noKTP": "9208050303770001",
+      "noHP": "082215030982",
+      "siteName": "DMT Kambraw",
+      "siteID": "KMN010",
+      "projectID": "13TS03B7188",
+      "city": "Kaimana",
+      "startRent": [
+        "19",
+        "7",
+        "2013"
+      ],
+      "endRent": [
+        "18",
+        "7",
+        "2024"
+      ],
+      "siteArea": [
+        "15",
+        "15"
+      ],
+      "jalanMasuk": "50m x 3m",
+      "price": "60000000",
+      "longLat": [
+        "133.589407",
+        "-3.41831"
+      ],
+      "address": "Jl. Pemukiman Sanua, Kampung Waho, Distrik Kambrau, Kabupaten Kaimana, Provinsi Papua Barat",
+      "ownerAddress": "Kampung Waho, RT.001/RW.000, Keluarahan Waho, Kecamatan Kambraw, Kabupaten Kaimana, Provinsi Papua Barat",
+      "id": 15,
+      "suratTerlampir": "Surat Keterangan Bukti Kepemilikan Tanah Adat Tertanggal 22-07-2013",
+      "noSuratTerlampir": "",
+      "noGirik": "",
+      "noSPPT": "",
+      "noIMB": "",
+      "noAktaJB": "",
+      "alamatBayar": [
+        "BNI",
+        "1762629354",
+        "Edison Wayega"
+      ],
+      "negotiator": "Muhammad Azhar W.",
+      "negoHistori": [
+        {
+          "tglPenyimpanan": [
+            13,
+            7,
+            2023
+          ],
+          "ll": {
+            "harga": "80000000",
+            "periode": "12",
+            "growth": "22.22"
+          },
+          "dmt": {
+            "harga": "80000000",
+            "periode": "12",
+            "growth": "22.22"
+          }
+        }
+      ],
+      "BAKSaved": [
+        15,
+        "Juli",
+        2023
+      ]
+    },
+    {
+      "name": "Ronny Makal, SH",
+      "noKTP": "474.4/03610/00103610",
+      "noHP": "",
+      "siteName": "DMT Asiki Prabu",
+      "siteID": "MRK022",
+      "projectID": "13TS03B7630",
+      "city": "Merauke",
+      "startRent": [
+        "30",
+        "12",
+        "2013"
+      ],
+      "endRent": [
+        "29",
+        "12",
+        "2024"
+      ],
+      "siteArea": [
+        "20",
+        "15"
+      ],
+      "jalanMasuk": "10m x 3m",
+      "price": "137500000",
+      "longLat": [
+        "140.412472",
+        "-6.662083"
+      ],
+      "address": "Jl. Prabu Asiki, Kampung Asiki, Distrik Jair, Kabupaten Boven Digoel, Provinsi Papua",
+      "ownerAddress": "Asiki, Kampung Asiki, Distrik Jair, Kabupaten Boven Digoel, Provinsi Papua",
+      "id": 16,
+      "suratTerlampir": "Sertifikat Hak Milik",
+      "noSuratTerlampir": "No.10 Atas Nama PT. Korindo Abadi",
+      "noGirik": "",
+      "noSPPT": "82.23.050.010.001-0003.0",
+      "noIMB": "",
+      "noAktaJB": "",
+      "alamatBayar": [],
+      "negotiator": "",
+      "negoHistori": []
+    },
+    {
+      "name": "",
+      "noKTP": "",
+      "noHP": "",
+      "siteName": "BTN Kompleks Mandiri",
+      "siteID": "TUL032",
+      "projectID": "23TS01Z0481",
+      "city": "Tual",
+      "startRent": [
+        "23",
+        "8",
+        "2019"
+      ],
+      "endRent": [
+        "22",
+        "8",
+        "2024"
+      ],
+      "siteArea": [
+        0,
+        0
+      ],
+      "jalanMasuk": "",
+      "price": "50000000",
+      "longLat": [
+        "132.75443",
+        "-5.62807"
+      ],
+      "address": "",
+      "ownerAddress": "",
+      "id": 17,
+      "suratTerlampir": "",
+      "noSuratTerlampir": "",
+      "noGirik": "",
+      "noSPPT": "",
+      "noIMB": "",
+      "noAktaJB": "",
+      "alamatBayar": [],
+      "negotiator": "",
+      "negoHistori": []
+    },
+    {
+      "name": "Rizal Fongan Changgih",
+      "noKTP": "8171022109620004",
+      "noHP": "081241999989",
+      "siteName": "AYPATTY",
+      "siteID": "AMB023",
+      "projectID": "22TS07B5430",
+      "city": "Ambon",
+      "startRent": [
+        "7",
+        "9",
+        "2019"
+      ],
+      "endRent": [
+        "6",
+        "9",
+        "2024"
+      ],
+      "siteArea": [
+        "6",
+        "6"
+      ],
+      "jalanMasuk": "Menyesuaikan Ke Site",
+      "price": "500000000",
+      "longLat": [
+        "128.17957",
+        "-3.69563"
+      ],
+      "address": "Jl. AY. Patty,RT.003/RW.009, Kelurahan Honipopu, Kecamatan Sirimau, Kota Ambon, Provinsi Maluku",
+      "ownerAddress": "Jl. AY. Patty,RT.003/RW.001,Kelurahan Honipopu, Kecamatan Sirimau, Kota Ambon, Provinsi Maluku",
+      "id": 18,
+      "suratTerlampir": "Sertipikat Hak Milik",
+      "noSuratTerlampir": "Nomor 657 Atas Nama Rizal Fongan Changgih",
+      "noGirik": "",
+      "noSPPT": "",
+      "noIMB": "",
+      "noAktaJB": "",
+      "alamatBayar": [
+        "Mandiri",
+        "141-00-9999989-8",
+        "Rizal Fongan Changgih"
+      ],
+      "negotiator": "Muhammad Azhar W.",
+      "negoHistori": [
+        {
+          "tglPenyimpanan": [
+            10,
+            7,
+            2023
+          ],
+          "ll": {
+            "harga": "700000000",
+            "periode": "5",
+            "growth": "55.56"
+          },
+          "dmt": {
+            "harga": "625000000",
+            "periode": "5",
+            "growth": "38.89"
+          }
+        },
+        {
+          "tglPenyimpanan": [
+            10,
+            7,
+            2023
+          ],
+          "ll": {
+            "harga": "650000000",
+            "periode": "5",
+            "growth": "30.00"
+          },
+          "dmt": {
+            "harga": "625000000",
+            "periode": "5",
+            "growth": "25.00"
+          }
+        }
+      ]
+    },
+    {
+      "name": "",
+      "noKTP": "",
+      "noHP": "",
+      "siteName": "Waena Permai",
+      "siteID": "JAP198",
+      "projectID": "23TS01Z1538",
+      "city": "Jayapura",
+      "startRent": [
+        "20",
+        "3",
+        "2014"
+      ],
+      "endRent": [
+        "19",
+        "3",
+        "2024"
+      ],
+      "siteArea": [
+        0,
+        0
+      ],
+      "jalanMasuk": "",
+      "price": "101250000",
+      "longLat": [
+        "140.63968",
+        "-2.59544"
+      ],
+      "address": "",
+      "ownerAddress": "",
+      "id": 19,
+      "suratTerlampir": "",
+      "noSuratTerlampir": "",
+      "noGirik": "",
+      "noSPPT": "",
+      "noIMB": "",
+      "noAktaJB": "",
+      "alamatBayar": [],
+      "negotiator": "",
+      "negoHistori": []
+    },
+    {
+      "name": "",
+      "noKTP": "",
+      "noHP": "",
+      "siteName": "SMU 4 Jayapura",
+      "siteID": "JAP197",
+      "projectID": "23TS01Z1537",
+      "city": "Jayapura",
+      "startRent": [
+        "20",
+        "3",
+        "2019"
+      ],
+      "endRent": [
+        "19",
+        "5",
+        "2024"
+      ],
+      "siteArea": [
+        0,
+        0
+      ],
+      "jalanMasuk": "",
+      "price": "45000000",
+      "longLat": [
+        "140.69096",
+        "-2.57745"
+      ],
+      "address": "",
+      "ownerAddress": "",
+      "id": 20,
+      "suratTerlampir": "",
+      "noSuratTerlampir": "",
+      "noGirik": "",
+      "noSPPT": "",
+      "noIMB": "",
+      "noAktaJB": "",
+      "alamatBayar": [],
+      "negotiator": "",
+      "negoHistori": []
+    },
+    {
+      "name": "",
+      "noKTP": "",
+      "noHP": "",
+      "siteName": "RUMAHKAY",
+      "siteID": "MSH048",
+      "projectID": "22TS07B0689",
+      "city": "Masohi",
+      "startRent": [
+        "19",
+        "12",
+        "2018"
+      ],
+      "endRent": [
+        "18",
+        "12",
+        "2023"
+      ],
+      "siteArea": [
+        0,
+        0
+      ],
+      "jalanMasuk": "",
+      "price": "150000000",
+      "longLat": [
+        "128.54199 ",
+        "-3.44392"
+      ],
+      "address": "",
+      "ownerAddress": "",
+      "id": 21,
+      "suratTerlampir": "",
+      "noSuratTerlampir": "",
+      "noGirik": "",
+      "noSPPT": "",
+      "noIMB": "",
+      "noAktaJB": "",
+      "alamatBayar": [],
+      "negotiator": "",
+      "negoHistori": []
+    },
+    {
+      "name": "",
+      "noKTP": "",
+      "noHP": "",
+      "siteName": "Ruko Sumberker",
+      "siteID": "BIA046",
+      "projectID": "23TS01Z3391",
+      "city": "Biak",
+      "startRent": [
+        "24",
+        "5",
+        "2019"
+      ],
+      "endRent": [
+        "23",
+        "5",
+        "2024"
+      ],
+      "siteArea": [
+        0,
+        0
+      ],
+      "jalanMasuk": "",
+      "price": "60000000",
+      "longLat": [
+        "136.108097",
+        "-1.1579"
+      ],
+      "address": "",
+      "ownerAddress": "",
+      "id": 22,
+      "suratTerlampir": "",
+      "noSuratTerlampir": "",
+      "noGirik": "",
+      "noSPPT": "",
+      "noIMB": "",
+      "noAktaJB": "",
+      "alamatBayar": [],
+      "negotiator": "",
+      "negoHistori": []
+    },
+    {
+      "name": "",
+      "noKTP": "",
+      "noHP": "",
+      "siteName": "Ruko Persada",
+      "siteID": "MWR058",
+      "projectID": "23TS01Z0189",
+      "city": "Manokwari",
+      "startRent": [
+        "25",
+        "10",
+        "2019"
+      ],
+      "endRent": [
+        "24",
+        "10",
+        "2024"
+      ],
+      "siteArea": [
+        0,
+        0
+      ],
+      "jalanMasuk": "",
+      "price": "100000000",
+      "longLat": [
+        "134.04602",
+        "-0.86801"
+      ],
+      "address": "",
+      "ownerAddress": "",
+      "id": 23,
+      "suratTerlampir": "",
+      "noSuratTerlampir": "",
+      "noGirik": "",
+      "noSPPT": "",
+      "noIMB": "",
+      "noAktaJB": "",
+      "alamatBayar": [],
+      "negotiator": "",
+      "negoHistori": []
+    },
+    {
+      "name": "",
+      "noKTP": "",
+      "noHP": "",
+      "siteName": "Pos 7 Sentani",
+      "siteID": "JAP206",
+      "projectID": "23TS01Z2886",
+      "city": "Jayapura",
+      "startRent": [
+        "13",
+        "6",
+        "2014"
+      ],
+      "endRent": [
+        "12",
+        "6",
+        "2024"
+      ],
+      "siteArea": [
+        0,
+        0
+      ],
+      "jalanMasuk": "",
+      "price": "100000000",
+      "longLat": [
+        "140.50954",
+        "-2.56479"
+      ],
+      "address": "",
+      "ownerAddress": "",
+      "id": 24,
+      "suratTerlampir": "",
+      "noSuratTerlampir": "",
+      "noGirik": "",
+      "noSPPT": "",
+      "noIMB": "",
+      "noAktaJB": "",
+      "alamatBayar": [],
+      "negotiator": "",
+      "negoHistori": []
+    },
+    {
+      "name": "Christina Zega",
+      "noKTP": "9171024507750002",
+      "noHP": "0811 4809 551",
+      "siteName": "Polimak Batu Karang",
+      "siteID": "JAP264",
+      "projectID": "23TS01Z1992",
+      "city": "Jayapura",
+      "startRent": [
+        "27",
+        "8",
+        "2014"
+      ],
+      "endRent": [
+        "26",
+        "8",
+        "2024"
+      ],
+      "siteArea": [
+        "6",
+        "4"
+      ],
+      "jalanMasuk": "10 m2",
+      "price": "100000000",
+      "longLat": [
+        "140.70759",
+        "-2.54644"
+      ],
+      "address": "Batu Putih No.99 RT.004 RW.003 Kel. Numbay Kec. Jayapura Selatan",
+      "ownerAddress": "Batu Putih No.99 RT.004 RW.003 Kel. Numbay Kec. Jayapura Selatan",
+      "id": 25,
+      "suratTerlampir": "Sertifikat Hak Milik",
+      "noSuratTerlampir": "196 an. Luluaro Johannes Zega",
+      "noGirik": "",
+      "noSPPT": "",
+      "noIMB": "No. 696/IMBP-TKP/07",
+      "noAktaJB": "",
+      "alamatBayar": [
+        "Mandiri",
+        "1540005231828",
+        "Christina Yalinia Zega"
+      ],
+      "negotiator": "M. Faza Yasin",
+      "negoHistori": [
+        {
+          "tglPenyimpanan": [
+            13,
+            7,
+            2023
+          ],
+          "ll": {
+            "harga": "100000000",
+            "periode": "10",
+            "growth": "0.00"
+          },
+          "dmt": {
+            "harga": "100000000",
+            "periode": "10",
+            "growth": "0.00"
+          }
+        }
+      ]
+    },
+    {
+      "name": "",
+      "noKTP": "",
+      "noHP": "",
+      "siteName": "Pesantren Al_bunayya",
+      "siteID": "JAP212",
+      "projectID": "23TS01Z1897",
+      "city": "Jayapura",
+      "startRent": [
+        "27",
+        "8",
+        "2014"
+      ],
+      "endRent": [
+        "26",
+        "8",
+        "2024"
+      ],
+      "siteArea": [
+        0,
+        0
+      ],
+      "jalanMasuk": "",
+      "price": "100000000",
+      "longLat": [
+        "140.63352",
+        "-2.60124"
+      ],
+      "address": "",
+      "ownerAddress": "",
+      "id": 26,
+      "suratTerlampir": "",
+      "noSuratTerlampir": "",
+      "noGirik": "",
+      "noSPPT": "",
+      "noIMB": "",
+      "noAktaJB": "",
+      "alamatBayar": [],
+      "negotiator": "",
+      "negoHistori": []
+    },
+    {
+      "name": "",
+      "noKTP": "",
+      "noHP": "",
+      "siteName": "Masohi Plaza",
+      "siteID": "MSH122",
+      "projectID": "23TS01Z0330",
+      "city": "Masohi",
+      "startRent": [
+        "6",
+        "12",
+        "2013"
+      ],
+      "endRent": [
+        "5",
+        "12",
+        "2023"
+      ],
+      "siteArea": [
+        0,
+        0
+      ],
+      "jalanMasuk": "",
+      "price": "135000000",
+      "longLat": [
+        "128.95621",
+        "-3.29893"
+      ],
+      "address": "",
+      "ownerAddress": "",
+      "id": 27,
+      "suratTerlampir": "",
+      "noSuratTerlampir": "",
+      "noGirik": "",
+      "noSPPT": "",
+      "noIMB": "",
+      "noAktaJB": "",
+      "alamatBayar": [],
+      "negotiator": "",
+      "negoHistori": []
+    },
+    {
+      "name": "",
+      "noKTP": "",
+      "noHP": "",
+      "siteName": "Jalan Yos Sudarso Manokwari",
+      "siteID": "MWR057",
+      "projectID": "23TS01Z0188",
+      "city": "Manokwari",
+      "startRent": [
+        "7",
+        "5",
+        "2019"
+      ],
+      "endRent": [
+        "6",
+        "5",
+        "2024"
+      ],
+      "siteArea": [
+        0,
+        0
+      ],
+      "jalanMasuk": "",
+      "price": "90000000",
+      "longLat": [
+        "134.06591",
+        "-0.86481"
+      ],
+      "address": "",
+      "ownerAddress": "",
+      "id": 28,
+      "suratTerlampir": "",
+      "noSuratTerlampir": "",
+      "noGirik": "",
+      "noSPPT": "",
+      "noIMB": "",
+      "noAktaJB": "",
+      "alamatBayar": [],
+      "negotiator": "",
+      "negoHistori": []
+    },
+    {
+      "name": "",
+      "noKTP": "",
+      "noHP": "",
+      "siteName": "DMT Tanimbar Selatan",
+      "siteID": "SML011",
+      "projectID": "13TS03B7241",
+      "city": "Saumlaki",
+      "startRent": [
+        "10",
+        "6",
+        "2013"
+      ],
+      "endRent": [
+        "9",
+        "6",
+        "2024"
+      ],
+      "siteArea": [
+        0,
+        0
+      ],
+      "jalanMasuk": "",
+      "price": "110000000",
+      "longLat": [
+        "131.31889",
+        "-7.99538"
+      ],
+      "address": "",
+      "ownerAddress": "",
+      "id": 29,
+      "suratTerlampir": "",
+      "noSuratTerlampir": "",
+      "noGirik": "",
+      "noSPPT": "",
+      "noIMB": "",
+      "noAktaJB": "",
+      "alamatBayar": [],
+      "negotiator": "",
+      "negoHistori": []
+    },
+    {
+      "name": "",
+      "noKTP": "",
+      "noHP": "",
+      "siteName": "DMT Nania Bawah",
+      "siteID": "AMB099",
+      "projectID": "13TS03B7174",
+      "city": "Ambon",
+      "startRent": [
+        "26",
+        "7",
+        "2013"
+      ],
+      "endRent": [
+        "25",
+        "7",
+        "2024"
+      ],
+      "siteArea": [
+        0,
+        0
+      ],
+      "jalanMasuk": "",
+      "price": "231000000",
+      "longLat": [
+        "128.227",
+        "-3.63165"
+      ],
+      "address": "",
+      "ownerAddress": "",
+      "id": 30,
+      "suratTerlampir": "",
+      "noSuratTerlampir": "",
+      "noGirik": "",
+      "noSPPT": "",
+      "noIMB": "",
+      "noAktaJB": "",
+      "alamatBayar": [],
+      "negotiator": "",
+      "negoHistori": []
+    },
+    {
+      "name": "",
+      "noKTP": "",
+      "noHP": "",
+      "siteName": "DMT MALAINGKEDI",
+      "siteID": "SON066",
+      "projectID": "13TS03B7251",
+      "city": "Sorong",
+      "startRent": [
+        "23",
+        "4",
+        "2013"
+      ],
+      "endRent": [
+        "22",
+        "4",
+        "2024"
+      ],
+      "siteArea": [
+        0,
+        0
+      ],
+      "jalanMasuk": "",
+      "price": "125000000",
+      "longLat": [
+        "131.296123",
+        "-0.882503"
+      ],
+      "address": "",
+      "ownerAddress": "",
+      "id": 31,
+      "suratTerlampir": "",
+      "noSuratTerlampir": "",
+      "noGirik": "",
+      "noSPPT": "",
+      "noIMB": "",
+      "noAktaJB": "",
+      "alamatBayar": [],
+      "negotiator": "",
+      "negoHistori": []
+    },
+    {
+      "name": "",
+      "noKTP": "",
+      "noHP": "",
+      "siteName": "DMT Lety Moa Lakor",
+      "siteID": "SML014",
+      "projectID": "13TS03B7243",
+      "city": "Saumlaki",
+      "startRent": [
+        "27",
+        "6",
+        "2013"
+      ],
+      "endRent": [
+        "26",
+        "6",
+        "2024"
+      ],
+      "siteArea": [
+        0,
+        0
+      ],
+      "jalanMasuk": "",
+      "price": "88000000",
+      "longLat": [
+        "127.6867",
+        "-8.15695"
+      ],
+      "address": "",
+      "ownerAddress": "",
+      "id": 32,
+      "suratTerlampir": "",
+      "noSuratTerlampir": "",
+      "noGirik": "",
+      "noSPPT": "",
+      "noIMB": "",
+      "noAktaJB": "",
+      "alamatBayar": [],
+      "negotiator": "",
+      "negoHistori": []
+    },
+    {
+      "name": "",
+      "noKTP": "",
+      "noHP": "",
+      "siteName": "DMT Kampung Oihu",
+      "siteID": "AMB128",
+      "projectID": "13TS11B2156",
+      "city": "Ambon",
+      "startRent": [
+        "17",
+        "12",
+        "2013"
+      ],
+      "endRent": [
+        "16",
+        "12",
+        "2024"
+      ],
+      "siteArea": [
+        0,
+        0
+      ],
+      "jalanMasuk": "",
+      "price": "165000000",
+      "longLat": [
+        "128.19022",
+        "-3.67797"
+      ],
+      "address": "",
+      "ownerAddress": "",
+      "id": 33,
+      "suratTerlampir": "",
+      "noSuratTerlampir": "",
+      "noGirik": "",
+      "noSPPT": "",
+      "noIMB": "",
+      "noAktaJB": "",
+      "alamatBayar": [],
+      "negotiator": "",
+      "negoHistori": []
+    },
+    {
+      "name": "",
+      "noKTP": "",
+      "noHP": "",
+      "siteName": "Bioskop Amura",
+      "siteID": "TUL050",
+      "projectID": "23TS01Z0277",
+      "city": "Tual",
+      "startRent": [
+        "23",
+        "8",
+        "2014"
+      ],
+      "endRent": [
+        "22",
+        "8",
+        "2024"
+      ],
+      "siteArea": [
+        0,
+        0
+      ],
+      "jalanMasuk": "",
+      "price": "70000000",
+      "longLat": [
+        "132.74287",
+        "-5.63469"
+      ],
+      "address": "",
+      "ownerAddress": "",
+      "id": 34,
+      "suratTerlampir": "",
+      "noSuratTerlampir": "",
+      "noGirik": "",
+      "noSPPT": "",
+      "noIMB": "",
+      "noAktaJB": "",
+      "alamatBayar": [],
+      "negotiator": "",
+      "negoHistori": []
+    },
+    {
+      "name": "",
+      "noKTP": "",
+      "noHP": "",
+      "siteName": "AIMAS",
+      "siteID": "30SON003",
+      "projectID": "19IS11B0461",
+      "city": "Sorong",
+      "startRent": [
+        "18",
+        "12",
+        "2014"
+      ],
+      "endRent": [
+        "17",
+        "12",
+        "2024"
+      ],
+      "siteArea": [
+        0,
+        0
+      ],
+      "jalanMasuk": "",
+      "price": "150000000",
+      "longLat": [
+        "131.32771",
+        "-0.96009"
+      ],
+      "address": "",
+      "ownerAddress": "",
+      "id": 35,
+      "suratTerlampir": "",
+      "noSuratTerlampir": "",
+      "noGirik": "",
+      "noSPPT": "",
+      "noIMB": "",
+      "noAktaJB": "",
+      "alamatBayar": [],
+      "negotiator": "",
+      "negoHistori": []
+    },
+    {
+      "name": "",
+      "noKTP": "",
+      "noHP": "",
+      "siteName": "Ruko Reremi",
+      "siteID": "MWR037",
+      "projectID": "23TS01Z0058",
+      "city": "Manokwari",
+      "startRent": [
+        "28",
+        "11",
+        "2018"
+      ],
+      "endRent": [
+        "27",
+        "11",
+        "2023"
+      ],
+      "siteArea": [
+        0,
+        0
+      ],
+      "jalanMasuk": "",
+      "price": "90000000",
+      "longLat": [
+        "134.04829",
+        "-0.86826"
+      ],
+      "address": "Jl. Reremi Puncak, Kel. Amban Manokwari Barat, Kab. Manokwari, Papua Barat",
+      "ownerAddress": "",
+      "id": 36,
+      "suratTerlampir": "",
+      "noSuratTerlampir": "",
+      "noGirik": "",
+      "noSPPT": "",
+      "noIMB": "",
+      "noAktaJB": "",
+      "alamatBayar": [],
+      "negotiator": "",
+      "negoHistori": []
+    },
+    {
+      "name": "",
+      "noKTP": "",
+      "noHP": "",
+      "siteName": "RAMAYANASORONG",
+      "siteID": "SON109",
+      "projectID": "23TS01Z0865",
+      "city": "Sorong",
+      "startRent": [
+        "5",
+        "12",
+        "2018"
+      ],
+      "endRent": [
+        "6",
+        "12",
+        "2023"
+      ],
+      "siteArea": [
+        0,
+        0
+      ],
+      "jalanMasuk": "",
+      "price": "1000000000",
+      "longLat": [
+        "131.27518",
+        "-0.88201"
+      ],
+      "address": "MALL RAMAYANA JL.AHMAD YANI KOTA SORONG-KLADEMAK-SORONG-98416-SORONG ",
+      "ownerAddress": "",
+      "id": 37,
+      "suratTerlampir": "",
+      "noSuratTerlampir": "",
+      "noGirik": "",
+      "noSPPT": "",
+      "noIMB": "",
+      "noAktaJB": "",
+      "alamatBayar": [],
+      "negotiator": "",
+      "negoHistori": []
+    },
+    {
+      "name": "Jemmy Tjoadinata",
+      "noKTP": "8171021804640004",
+      "noHP": "081343994242",
+      "siteName": "Tulukabesi",
+      "siteID": "AMB195",
+      "projectID": "23TS01Z2867",
+      "city": "Ambon",
+      "startRent": [
+        "1",
+        "10",
+        "2019"
+      ],
+      "endRent": [
+        "30",
+        "9",
+        "2024"
+      ],
+      "siteArea": [
+        "7",
+        "7"
+      ],
+      "jalanMasuk": "Menyesuaikan ke Site",
+      "price": "135000000",
+      "longLat": [
+        "128.18578",
+        "-3.69054"
+      ],
+      "address": "JL. RAYA PATTIMURA ,DEALER KAWASAKI",
+      "ownerAddress": "Passo Larier, RT.042/RW.009, Kelurahan Passo, Kecamatan Baguala, Kota Ambon, Provinsi Maluku",
+      "id": 38,
+      "suratTerlampir": "Sertipikat Hak Milik",
+      "noSuratTerlampir": "Nomor 700 Atas Nama Tjoadinata Jemmy",
+      "noGirik": "",
+      "noSPPT": "No.81.71.020.012.004-0006.0",
+      "noIMB": "",
+      "noAktaJB": "",
+      "alamatBayar": [
+        "BCA",
+        "0441004922",
+        "Fanty Tjoardy"
+      ],
+      "negotiator": "",
+      "negoHistori": []
+    },
+    {
+      "name": "Irsa Sumagit",
+      "noKTP": "7102016310860003",
+      "noHP": "081355316747",
+      "siteName": "MC Winangun Palm",
+      "siteID": "MDO295",
+      "projectID": "22TS07B3058",
+      "city": "Manado",
+      "startRent": [
+        "23",
+        "11",
+        "2019"
+      ],
+      "endRent": [
+        "24",
+        "11",
+        "2024"
+      ],
+      "siteArea": [
+        "6",
+        "4"
+      ],
+      "jalanMasuk": "20 m²",
+      "price": "150000000",
+      "longLat": [
+        "124.8372",
+        "1.44204"
+      ],
+      "address": "Jl. BP 7 Lingkungan 10 Manado, Sulawesi Utara",
+      "ownerAddress": "Lingkungan III, Kelurahan Rerewokan, Kecamatan Tonado Barat, Kabupaten Minahasa Barat, Provinsi Sulawesi Utara",
+      "id": 39,
+      "suratTerlampir": "",
+      "noSuratTerlampir": "",
+      "noGirik": "",
+      "noSPPT": "",
+      "noIMB": "",
+      "noAktaJB": "",
+      "alamatBayar": [],
+      "negotiator": "",
+      "negoHistori": []
+    },
+    {
+      "name": "Bonny Pirono",
+      "noKTP": "9171020601690003",
+      "noHP": "081289768282",
+      "siteName": "MCR Saga Mall",
+      "siteID": "JAP025",
+      "projectID": "22TS07B3871",
+      "city": "Jayapura",
+      "startRent": [
+        "1",
+        "5",
+        "2020"
+      ],
+      "endRent": [
+        "30",
+        "4",
+        "2023"
+      ],
+      "siteArea": [
+        "4",
+        "4"
+      ],
+      "jalanMasuk": "Lantai 4 Fun Station",
+      "price": "135000000",
+      "longLat": [
+        "140.665860",
+        "-2.6108300"
+      ],
+      "address": "Jl. Raya Abepura, Kelurahan Kota Baru, Kecamatan Abepura, Kota Jayapura, Provinsi Papua",
+      "ownerAddress": "Jl. Entrop, RT.001/RW.011, Entrop,Kecamatan Jayapura Selatan,Kota Jayapura,Provinsi Papua",
+      "id": 40,
+      "suratTerlampir": "",
+      "noSuratTerlampir": "",
+      "noGirik": "",
+      "noSPPT": "",
+      "noIMB": "",
+      "noAktaJB": "",
+      "alamatBayar": [],
+      "negotiator": "",
+      "negoHistori": []
+    },
+    {
+      "name": "Dewi Sartika",
+      "noKTP": "9203075212800001",
+      "noHP": "085254507328",
+      "siteName": "DMT Wonodadi Mulya",
+      "siteID": "P12-13",
+      "projectID": "18TS05U0091",
+      "city": "Fakfak",
+      "startRent": [
+        "7",
+        "6",
+        "2023"
+      ],
+      "endRent": [
+        "6",
+        "6",
+        "2033"
+      ],
+      "siteArea": [
+        "20",
+        "20"
+      ],
+      "jalanMasuk": "30m x 3m ",
+      "price": "145000000",
+      "longLat": [
+        "133.02866",
+        "-2.83573"
+      ],
+      "address": "Desa Wonodadi Mulya, Kabupaten Fakfak, Provinsi Papua Barat",
+      "ownerAddress": "Kampung Wonodadi Mulya, RT.001/RW.000, Desa Wonodadi Mulya, Kecamatan Tomage, Kabupaten Fakfak, Provinsi Papua Barat ",
+      "id": 41,
+      "suratTerlampir": "",
+      "noSuratTerlampir": "",
+      "noGirik": "",
+      "noSPPT": "",
+      "noIMB": "",
+      "noAktaJB": "",
+      "alamatBayar": [],
+      "negotiator": "",
+      "negoHistori": []
+    },
+    {
+      "name": "H. Hamid La Dua",
+      "noKTP": "8171020210620004",
+      "noHP": "081247380677",
+      "siteName": "Kebun Cengkeh 2",
+      "siteID": "AMB163",
+      "projectID": "23TS01Z2545",
+      "city": "Ambon",
+      "startRent": [
+        "5",
+        "12",
+        "2018"
+      ],
+      "endRent": [
+        "24",
+        "12",
+        "2023"
+      ],
+      "siteArea": [
+        "8",
+        "5"
+      ],
+      "jalanMasuk": "Mengikuti Akses yang Sudah Ada",
+      "price": "87500000",
+      "longLat": [
+        "128.20204",
+        "-3.68208"
+      ],
+      "address": "Jl. Kebun Cengkeh Blok. A3 No. 23, RT.005/RW.015, Kelurahan Batu Merah, Kecamatan Sirimau, Kota Ambon, Provinsi Maluku",
+      "ownerAddress": "Jl. Kebun Cengkeh Blok. A3 No. 23, RT.005/RW.015, Kelurahan Batu Merah, Kecamatan Sirimau, Kota Ambon, Provinsi Maluku",
+      "id": 42,
+      "suratTerlampir": "",
+      "noSuratTerlampir": "",
+      "noGirik": "",
+      "noSPPT": "",
+      "noIMB": "",
+      "noAktaJB": "",
+      "alamatBayar": [],
+      "negotiator": "",
+      "negoHistori": []
+    },
+    {
+      "name": "Razak Syarief ",
+      "noKTP": "917101330849001",
+      "noHP": "081356119696",
+      "siteName": "DMT Base G2",
+      "siteID": "JAP144",
+      "projectID": "13TS03B7197",
+      "city": "Jayapura",
+      "startRent": [
+        30,
+        5,
+        2013
+      ],
+      "endRent": [
+        29,
+        5,
+        2024
+      ],
+      "siteArea": [
+        "9",
+        "5"
+      ],
+      "jalanMasuk": "10",
+      "price": "140000000",
+      "longLat": [
+        "140.735",
+        "-2.5187"
+      ],
+      "address": "JL. Tanjung RIA II RT09 RW02 Jayapura Utara Kota Jayapura",
+      "ownerAddress": "JL. Tanjung RIA II RT09 RW02 Jayapura Utara Kota Jayapura",
+      "id": 43,
+      "suratTerlampir": "Sertipikat Hak Milik",
+      "noSuratTerlampir": "No.1 Atas Nama Razak Syarief",
+      "noGirik": "",
+      "noSPPT": "",
+      "noIMB": "",
+      "noAktaJB": "",
+      "alamatBayar": [
+        "Mandiri",
+        "123123123",
+        "Razak Syarief"
+      ],
+      "negotiator": "",
+      "negoHistori": []
+    },
+    {
+      "name": "Insan Kamil & Zadrak Afasedanya",
+      "noKTP": "3171071705810009 & 9171050105670004",
+      "noHP": "085883835530",
+      "siteName": "DMT Kasuari Lereh",
+      "siteID": "JAP645",
+      "projectID": "18TS02B0484",
+      "city": "Jayapura",
+      "startRent": [
+        "28",
+        "12",
+        "2018"
+      ],
+      "endRent": [
+        "27",
+        "12",
+        "2023"
+      ],
+      "siteArea": [
+        "10",
+        "10"
+      ],
+      "jalanMasuk": "Sepanjang Akses Sampai ke Tower",
+      "price": "45000000",
+      "longLat": [
+        "139.99038",
+        "-2.94686"
+      ],
+      "address": "PT. Sinar Kencana Inti Perkasa, Desa Lapua, Distrik Kaureh, kabupaten Jayapura, Provinsi Papua",
+      "ownerAddress": "PT Sinar Kencana Inti Perkasa Komp. BTN Skyline lndah Blok D 28 Kotaraja, Jayapura,Provinsi Papua",
+      "suratTerlampir": "No.01 An. PT. Sinar Kencana  Inti Perkasa",
+      "noSuratTerlampir": "",
+      "noGirik": "",
+      "noSPPT": "82.03.090.952.110.00021",
+      "noIMB": "",
+      "noAktaJB": "",
+      "alamatBayar": [
+        "Citibank",
+        "0106362033",
+        "PT. Sinar Kencana  Inti Perkasa"
+      ],
+      "id": 44,
+      "negotiator": "",
+      "negoHistori": []
+    },
+    {
+      "name": "Alexander Phuk Tjilen",
+      "noKTP": "9101012001630001",
+      "noHP": "081223769426",
+      "siteName": "Toko Sakura",
+      "siteID": "MRK050",
+      "projectID": "23TS01Z0343",
+      "city": "Merauke",
+      "startRent": [
+        "2",
+        "5",
+        "2019"
+      ],
+      "endRent": [
+        "1",
+        "5",
+        "2024"
+      ],
+      "siteArea": [
+        "7",
+        "3.3"
+      ],
+      "jalanMasuk": "Melalui toko dan tangga naik ke teras lantai 3",
+      "price": "82500000",
+      "longLat": [
+        "140.39243",
+        "-8.49154"
+      ],
+      "address": "Jl. Raya Mandala, RT.014/RW.004, Kelurahan Mandala, Kecamatan Merauke, Kabupaten Merauke, Provinsi Papua",
+      "ownerAddress": "Jl. Raya Mandala, RT.014/RW.004, Kelurahan Mandala, Kecamatan Merauke, Kabupaten Merauke, Provinsi Papua",
+      "suratTerlampir": "Sertifikat Hak Milik",
+      "noSuratTerlampir": "No.1 Alexander Phuk Tjilen",
+      "noGirik": "",
+      "noSPPT": "",
+      "noIMB": "",
+      "noAktaJB": "",
+      "alamatBayar": [
+        "Mandiri",
+        "10101010110",
+        "Alexander Phuk Tjilen"
+      ],
+      "id": 45,
+      "negotiator": "",
+      "negoHistori": []
+    },
+    {
+      "name": "H. Zainal Abidin Chandra",
+      "noKTP": "9102012502420001",
+      "noHP": "0813 4446 8888",
+      "siteName": "Hotel Baliem Pilamo Wamena",
+      "siteID": "WAM027",
+      "projectID": "23TS01Z2739",
+      "city": "Wamena",
+      "startRent": [
+        "1",
+        "10",
+        "2019"
+      ],
+      "endRent": [
+        "30",
+        "9",
+        "2024"
+      ],
+      "siteArea": [
+        "5",
+        "5"
+      ],
+      "jalanMasuk": "Menyesuaikan ke Site",
+      "price": "100000000",
+      "longLat": [
+        "138.94553",
+        "-4.08943"
+      ],
+      "address": "JL. TRIKORA HOTEL BALIEM WAMENA",
+      "ownerAddress": "Jalan Safri Darwin RT.006 / RW.002, Kelurahan Wamena Kota, Kecamatan Wamena, Kabupaten Jayawijaya, Propinsi Papua",
+      "suratTerlampir": "Sertipikat Hak Milik",
+      "noSuratTerlampir": "2698",
+      "noGirik": "",
+      "noSPPT": "82.02.080 005.008-0021.0 ",
+      "noIMB": "",
+      "noAktaJB": "",
+      "alamatBayar": [
+        "Mandiri",
+        "1540002372617",
+        "Zainal Abidin Chandra"
+      ],
+      "negotiator": "M. Faza Yasin",
+      "negoHistori": [
+        {
+          "tglPenyimpanan": [
+            11,
+            7,
+            2023
+          ],
+          "ll": {
+            "harga": "100000000",
+            "periode": "5",
+            "growth": "0.00"
+          },
+          "dmt": {
+            "harga": "180000000",
+            "periode": "10",
+            "growth": "-10.00"
+          }
+        },
+        {
+          "tglPenyimpanan": [
+            11,
+            7,
+            2023
+          ],
+          "ll": {
+            "harga": "100000000",
+            "periode": "5",
+            "growth": "0.00"
+          },
+          "dmt": {
+            "harga": "100000000",
+            "periode": "5",
+            "growth": "0.00"
+          }
+        }
+      ],
+      "id": 46
+    },
+    {
+      "name": "Ferdinan Pabula",
+      "noKTP": "8171021811760005",
+      "noHP": "0811470097",
+      "siteName": "Hotel Amans",
+      "siteID": "AMB003",
+      "projectID": "23TS01Z2865",
+      "city": "Ambon",
+      "startRent": [
+        "19",
+        "8",
+        "2013"
+      ],
+      "endRent": [
+        "18",
+        "8",
+        "2023"
+      ],
+      "siteArea": [
+        "13",
+        "4.3"
+      ],
+      "jalanMasuk": "3 m x 2 m",
+      "price": "400000000",
+      "longLat": [
+        "128.18433",
+        "-3.68911"
+      ],
+      "address": "JL. PANTAI MARDIKA NO.53A KEL.RIJALI, KECSIRIMAU, KOTA AMBON",
+      "ownerAddress": "Jalan Mutiara RT.03/01, Kel.Rijali, Kec.Sirimau, Kota Ambon",
+      "suratTerlampir": "Sertifikat Hak Milik",
+      "noSuratTerlampir": "No. 1189 / Kel. Rijali",
+      "noGirik": "",
+      "noSPPT": "SPT PBB NO : 81.71.020.012.002-0054.0",
+      "noIMB": "",
+      "noAktaJB": "",
+      "alamatBayar": [
+        "BCA KCU Ambon",
+        "0440722288",
+        "Ferdinand Pabula"
+      ],
+      "negotiator": "Ganang Arifian",
+      "negoHistori": [
+        {
+          "tglPenyimpanan": [
+            14,
+            7,
+            2023
+          ],
+          "ll": {
+            "harga": "430000000",
+            "periode": "10",
+            "growth": "7.50"
+          },
+          "dmt": {
+            "harga": "430000000",
+            "periode": "10",
+            "growth": "7.50"
+          }
+        }
+      ],
+      "id": 47
+    }
+  ],
+  "historiNego": [
+    {
+      "projectID": "23TS01Z2503",
+      "siteID": "JAP191",
+      "nameLL": "Rusni Somalinggi",
+      "siteName": "BTN Puskopad Sentani",
+      "negotiator": "",
+      "price": 125000000,
+      "endRent": [
+        10,
+        4,
+        2024
+      ],
+      "negoHistori": [
+        {
+          "ll": {
+            "harga": "160000000",
+            "periode": "10",
+            "desc": "Itu harga yang masuk akal",
+            "tglPengajuan": [
+              23,
+              6,
+              2023
+            ]
+          },
+          "dmt": {
+            "harga": "150000000",
+            "periode": "10",
+            "desc": "Setelah melalui analisis dan pertimbangan, kami hanya mampu untuk menaikkan harga sebesar 20%",
+            "tglPengajuan": [
+              26,
+              6,
+              2023
+            ]
+          }
+        }
+      ],
+      "deal": false,
+      "id": 2
+    },
+    {
+      "projectID": "13TS03B7200",
+      "siteID": "JAP136",
+      "nameLL": "Sri Rusdinah",
+      "siteName": "DMT Yobe",
+      "negotiator": "muhammad.azhar@mitratel.co.id",
+      "price": 150000000,
+      "endRent": [
+        12,
+        4,
+        2024
+      ],
+      "negoHistori": [
+        {
+          "ll": {
+            "harga": "195000000",
+            "periode": "10",
+            "desc": "Ikuti Plafon Perusahaan",
+            "tglPengajuan": [
+              23,
+              6,
+              2023
+            ]
+          },
+          "dmt": {
+            "harga": "195000000",
+            "periode": "11",
+            "desc": "Kami Setuju dengan harga ibu",
+            "tglPengajuan": [
+              26,
+              6,
+              2023
+            ]
+          }
+        }
+      ],
+      "deal": false,
+      "id": 3
+    },
+    {
+      "projectID": "23TS01Z1896",
+      "siteID": "JAP156",
+      "nameLL": "Suriani",
+      "siteName": "Perumnas 4",
+      "negotiator": "",
+      "price": 75000000,
+      "endRent": [
+        10,
+        12,
+        2023
+      ],
+      "negoHistori": [
+        {
+          "ll": {
+            "harga": "200000000",
+            "periode": "5",
+            "desc": "Harga awal",
+            "tglPengajuan": [
+              24,
+              6,
+              2023
+            ]
+          },
+          "dmt": {
+            "harga": "150000000",
+            "periode": "5",
+            "desc": "Itu Harga Yang Sesuai",
+            "tglPengajuan": [
+              24,
+              6,
+              2023
+            ]
+          }
+        },
+        {
+          "ll": {
+            "harga": "1",
+            "periode": "5",
+            "desc": "1",
+            "tglPengajuan": [
+              24,
+              6,
+              2023
+            ]
+          },
+          "dmt": {
+            "harga": "75000000",
+            "periode": "5",
+            "desc": "Kalo ngasih harga yang bener dong bu",
+            "tglPengajuan": [
+              26,
+              6,
+              2023
+            ]
+          }
+        },
+        {
+          "ll": {
+            "harga": "80000000",
+            "periode": "10",
+            "desc": "Itu udah bener anjing",
+            "tglPengajuan": [
+              27,
+              6,
+              2023
+            ]
+          },
+          "dmt": {
+            "harga": "",
+            "periode": "",
+            "desc": "",
+            "tglPengajuan": []
+          }
+        }
+      ],
+      "deal": false,
+      "id": 4
+    },
+    {
+      "projectID": "23TS01Z1882",
+      "siteID": "JAP196",
+      "nameLL": "Fatimah Nur",
+      "siteName": "Asano Tanah Hitam",
+      "negotiator": "faza.yasin@mitratel.co.id",
+      "price": 90000000,
+      "endRent": [
+        27,
+        4,
+        2024
+      ],
+      "negoHistori": [
+        {
+          "ll": {
+            "harga": "300000000",
+            "periode": "10",
+            "desc": "naik 10 persen dari harga awal",
+            "tglPengajuan": [
+              27,
+              6,
+              2023
+            ]
+          },
+          "dmt": {
+            "harga": "90000000",
+            "periode": "10",
+            "desc": "nilai taksiran berdasarkan NJOP",
+            "tglPengajuan": [
+              27,
+              6,
+              2023
+            ]
+          }
+        },
+        {
+          "ll": {
+            "harga": "250000000",
+            "periode": "7",
+            "desc": "",
+            "tglPengajuan": [
+              27,
+              6,
+              2023
+            ]
+          },
+          "dmt": {
+            "harga": "95000000",
+            "periode": "10",
+            "desc": "Harga ",
+            "tglPengajuan": [
+              27,
+              6,
+              2023
+            ]
+          }
+        },
+        {
+          "ll": {
+            "harga": "150000000",
+            "periode": "10",
+            "desc": "Harga paling akhir, jika tidak mau silahkan bongkar",
+            "tglPengajuan": [
+              30,
+              6,
+              2023
+            ]
+          },
+          "dmt": {
+            "harga": "150000000",
+            "periode": "10",
+            "desc": "Kami Menyetujui Harga yang Anda Ajukan",
+            "tglPengajuan": [
+              5,
+              7,
+              2023
+            ]
+          }
+        }
+      ],
+      "deal": true,
+      "id": 5
+    },
+    {
+      "projectID": "23TS01Z3147",
+      "siteID": "FFK020",
+      "nameLL": "Ricky Wijaya",
+      "siteName": "Swalayan Senyum Fak Fak",
+      "negotiator": "muhammad.azhar@mitratel.co.id",
+      "price": "125000000",
+      "endRent": [
+        "16",
+        "6",
+        "2024"
+      ],
+      "negoHistori": [
+        {
+          "ll": {
+            "harga": "175000000",
+            "periode": "5",
+            "desc": "Naik 10 juta per tahun dari harga sebelumnya",
+            "tglPengajuan": [
+              3,
+              7,
+              2023
+            ]
+          },
+          "dmt": {
+            "harga": "300000000",
+            "periode": "10",
+            "desc": "Penyeragaman untuk seluruh site ke 10 Tahun",
+            "tglPengajuan": [
+              3,
+              7,
+              2023
+            ]
+          }
+        },
+        {
+          "ll": {
+            "harga": "350000000",
+            "periode": "10",
+            "desc": "Tetap di 35 juta per tahun, tapi diperpanjang jadi 10 tahun",
+            "tglPengajuan": [
+              3,
+              7,
+              2023
+            ]
+          },
+          "dmt": {
+            "harga": "150000000",
+            "periode": "5",
+            "desc": "Baiklah, 5 tahun tapi di harga 30 juta",
+            "tglPengajuan": [
+              3,
+              7,
+              2023
+            ]
+          }
+        },
+        {
+          "ll": {
+            "harga": "150000000",
+            "periode": "5",
+            "desc": "Saya setuju dengan harga yang diajukan oleh Perusahaan",
+            "tglPengajuan": [
+              3,
+              7,
+              2023
+            ]
+          },
+          "dmt": {
+            "harga": "",
+            "periode": "",
+            "desc": "",
+            "tglPengajuan": []
+          }
+        }
+      ],
+      "deal": true,
+      "id": 6
+    },
+    {
+      "projectID": "23TS01Z3146",
+      "siteID": "FFK022",
+      "nameLL": "Sudirman Haruna",
+      "siteName": "Ruko H. Lelo",
+      "negotiator": "muhammad.azhar@mitratel.co.id",
+      "price": "125000000",
+      "endRent": [
+        "15",
+        "6",
+        "2024"
+      ],
+      "negoHistori": [
+        {
+          "ll": {
+            "harga": "200000000",
+            "periode": "5",
+            "desc": "Karena harga tersebut adalah harga yang paling cocok",
+            "tglPengajuan": [
+              6,
+              7,
+              2023
+            ]
+          },
+          "dmt": {
+            "harga": "150000000",
+            "periode": "10",
+            "desc": "Harga yang diajukan sudah melalui perhitungan investasi",
+            "tglPengajuan": [
+              6,
+              7,
+              2023
+            ]
+          }
+        },
+        {
+          "ll": {
+            "harga": "170000000",
+            "periode": "10",
+            "desc": "Jika ingin 10 tahun maka harga di 170jt",
+            "tglPengajuan": [
+              6,
+              7,
+              2023
+            ]
+          },
+          "dmt": {
+            "harga": "165000000",
+            "periode": "10",
+            "desc": "Mohon turunkan sedikit lagi untuk pengajuan ke atasan",
+            "tglPengajuan": [
+              6,
+              7,
+              2023
+            ]
+          }
+        },
+        {
+          "ll": {
+            "harga": "165000000",
+            "periode": "10",
+            "desc": "Saya setuju dengan harga yang diajukan oleh Perusahaan",
+            "tglPengajuan": [
+              6,
+              7,
+              2023
+            ]
+          },
+          "dmt": {
+            "harga": "",
+            "periode": "",
+            "desc": "",
+            "tglPengajuan": []
+          }
+        }
+      ],
+      "deal": true,
+      "id": 7
+    }
+  ]
+}
